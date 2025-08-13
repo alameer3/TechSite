@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: السياسة الإعلانات | اكوام
+twitter:title: السياسة الإعلانات | اكوام
+robots: ALL
+og:type: article
+og:description: 
+og:image: https://img.downet.net/thumb/830x506/uploads/EuUuP.png
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/ad-policy
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/ad-policy
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/EuUuP.png
+twitter:description: 
+twitter:url: https://ak.sv/ad-policy
+description: 
+keywords: 
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2021-09-26T16:37:10+03:00
+article:modified_time: 2023-04-06T14:27:35+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

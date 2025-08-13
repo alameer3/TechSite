@@ -1,0 +1,3 @@
+viewport: width=device-width, initial-scale=1, shrink-to-fit=no
+msapplication-TileColor: #222222
+theme-color: #222222

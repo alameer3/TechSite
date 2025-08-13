@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: Supernatural الموسم الاول - الحلقة 8 Bugs | اكوام
+twitter:title: Supernatural الموسم الاول - الحلقة 8 Bugs | اكوام
+robots: ALL
+og:type: article
+og:description: الموسم الاول من Supernatural يدور حول عميد ، كاستيل وسام دعوة روينا للمساعدة في الحفاظ على النفوس الشريرة في الخليج.
+og:image: https://img.downet.net/thumb/830x506/uploads/hbijs.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/episode/2084/bugs
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/episode/2084/bugs
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/hbijs.jpeg
+twitter:description: الموسم الاول من Supernatural يدور حول عميد ، كاستيل وسام دعوة روينا للمساعدة في الحفاظ على النفوس الشريرة في الخليج.
+twitter:url: https://ak.sv/episode/2084/bugs
+description: الموسم الاول من Supernatural يدور حول عميد ، كاستيل وسام دعوة روينا للمساعدة في الحفاظ على النفوس الشريرة في الخليج.
+keywords: Bugs
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-02-18T15:16:29+02:00
+article:modified_time: 2021-01-14T12:27:08+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

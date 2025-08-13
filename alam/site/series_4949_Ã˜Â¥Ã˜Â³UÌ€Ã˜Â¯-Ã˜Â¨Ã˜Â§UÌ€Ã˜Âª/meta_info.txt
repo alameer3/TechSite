@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: إسود باهت | اكوام
+twitter:title: إسود باهت | اكوام
+robots: ALL
+og:type: article
+og:description: مشاهدة و تحميل مسلسل إسود باهت حيث  إطار من الإثارة والتشويق، من خلال 15 حلقة مقسمة إلى 3 حكايات
+og:image: https://img.downet.net/thumb/830x506/uploads/rzv8F.jpg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/series/4949/%D8%A5%D8%B3%D9%88%D8%AF-%D8%A8%D8%A7%D9%87%D8%AA
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/series/4949/%D8%A5%D8%B3%D9%88%D8%AF-%D8%A8%D8%A7%D9%87%D8%AA
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/rzv8F.jpg
+twitter:description: مشاهدة و تحميل مسلسل إسود باهت حيث  إطار من الإثارة والتشويق، من خلال 15 حلقة مقسمة إلى 3 حكايات
+twitter:url: https://ak.sv/series/4949/%D8%A5%D8%B3%D9%88%D8%AF-%D8%A8%D8%A7%D9%87%D8%AA
+description: مشاهدة و تحميل مسلسل إسود باهت حيث  إطار من الإثارة والتشويق، من خلال 15 حلقة مقسمة إلى 3 حكايات
+keywords: إسود باهت,مشاهدة و تحميل مسلسل إسود باهت
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2025-02-28T01:32:24+02:00
+article:modified_time: 2025-03-31T06:12:24+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

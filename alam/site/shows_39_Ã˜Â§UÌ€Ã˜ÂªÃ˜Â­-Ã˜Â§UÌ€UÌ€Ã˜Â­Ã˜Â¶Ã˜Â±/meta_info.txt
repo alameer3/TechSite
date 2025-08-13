@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: افتح المحضر | اكوام
+twitter:title: افتح المحضر | اكوام
+robots: ALL
+og:type: article
+og:description: المسرحية الكوميدية افتح المحضر بطوله محمد عوض وميمي جمال
+og:image: https://img.downet.net/thumb/830x506/uploads/jttLV.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/39/%D8%A7%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%AD%D8%B6%D8%B1
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/39/%D8%A7%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%AD%D8%B6%D8%B1
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/jttLV.jpeg
+twitter:description: المسرحية الكوميدية افتح المحضر بطوله محمد عوض وميمي جمال
+twitter:url: https://ak.sv/shows/39/%D8%A7%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%AD%D8%B6%D8%B1
+description: المسرحية الكوميدية افتح المحضر بطوله محمد عوض وميمي جمال
+keywords: كوميدي,افتح محضر,مسرحية,وحيد سيف,محمود الجندي,محمد عوض
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-01-24T15:55:24+02:00
+article:modified_time: 2020-01-24T16:03:05+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

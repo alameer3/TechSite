@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: Peaky Blinders الموسم الرابع - الحلقة 5 The Duel | اكوام
+twitter:title: Peaky Blinders الموسم الرابع - الحلقة 5 The Duel | اكوام
+robots: ALL
+og:type: article
+og:description: الموسم الرابع من Peaky Blinders يدور حول ملحمة عائلة العصابات وضعت في عام 1919 برمنغهام ، إنجلترا.
+og:image: https://img.downet.net/thumb/830x506/uploads/TtEKc.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/episode/1224/the-duel
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/episode/1224/the-duel
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/TtEKc.jpeg
+twitter:description: الموسم الرابع من Peaky Blinders يدور حول ملحمة عائلة العصابات وضعت في عام 1919 برمنغهام ، إنجلترا.
+twitter:url: https://ak.sv/episode/1224/the-duel
+description: الموسم الرابع من Peaky Blinders يدور حول ملحمة عائلة العصابات وضعت في عام 1919 برمنغهام ، إنجلترا.
+keywords: The,Duel
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-02-09T16:21:47+02:00
+article:modified_time: 2025-06-20T17:02:52+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

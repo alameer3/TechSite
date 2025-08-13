@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: بابا جاب موز | اكوام
+twitter:title: بابا جاب موز | اكوام
+robots: ALL
+og:type: article
+og:description: صراعات بين الابناء بعد وفاة والدهم بائع الموز في اطار كوميدي
+og:image: https://img.downet.net/thumb/830x506/uploads/xSWvD.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/97/%D8%A8%D8%A7%D8%A8%D8%A7-%D8%AC%D8%A7%D8%A8-%D9%85%D9%88%D8%B2
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/97/%D8%A8%D8%A7%D8%A8%D8%A7-%D8%AC%D8%A7%D8%A8-%D9%85%D9%88%D8%B2
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/xSWvD.jpeg
+twitter:description: صراعات بين الابناء بعد وفاة والدهم بائع الموز في اطار كوميدي
+twitter:url: https://ak.sv/shows/97/%D8%A8%D8%A7%D8%A8%D8%A7-%D8%AC%D8%A7%D8%A8-%D9%85%D9%88%D8%B2
+description: صراعات بين الابناء بعد وفاة والدهم بائع الموز في اطار كوميدي
+keywords: تاجر موز,بابا جاب موز
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-03-03T17:35:05+02:00
+article:modified_time: 2020-03-03T17:38:36+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

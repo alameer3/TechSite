@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: أوتو فاغنر معماري الحداثة | اكوام
+twitter:title: أوتو فاغنر معماري الحداثة | اكوام
+robots: ALL
+og:type: article
+og:description: فيلم وثائقي عن Otto Koloman Wagner المهندس معماري، والأستاذ الجامعي
+og:image: https://img.downet.net/thumb/830x506/uploads/jFD90.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/129/%D8%A3%D9%88%D8%AA%D9%88-%D9%81%D8%A7%D8%BA%D9%86%D8%B1-%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AB%D8%A9
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/129/%D8%A3%D9%88%D8%AA%D9%88-%D9%81%D8%A7%D8%BA%D9%86%D8%B1-%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AB%D8%A9
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/jFD90.jpeg
+twitter:description: فيلم وثائقي عن Otto Koloman Wagner المهندس معماري، والأستاذ الجامعي
+twitter:url: https://ak.sv/shows/129/%D8%A3%D9%88%D8%AA%D9%88-%D9%81%D8%A7%D8%BA%D9%86%D8%B1-%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AB%D8%A9
+description: فيلم وثائقي عن Otto Koloman Wagner المهندس معماري، والأستاذ الجامعي
+keywords: أوتو فاغنر,أوتو فاغنر معماري الحداثة,مهندس معماري
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-03-13T19:37:09+02:00
+article:modified_time: 2020-03-14T19:03:02+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

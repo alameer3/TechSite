@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: Rambo: First Blood Part II | اكوام
+twitter:title: Rambo: First Blood Part II | اكوام
+robots: ALL
+og:type: article
+og:description: بأوامر عليا من الحكومة وقيادات الجيش يتم إطلاق سلاح (جون رامبو) من السجن من أجل تنفيذ مهمة خاصة للغاية في أحراش فيتنام،
+og:image: https://img.downet.net/thumb/830x506/uploads/VlnG0.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/movie/241/rambo-first-blood-part-ii
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/movie/241/rambo-first-blood-part-ii
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/VlnG0.jpeg
+twitter:description: بأوامر عليا من الحكومة وقيادات الجيش يتم إطلاق سلاح (جون رامبو) من السجن من أجل تنفيذ مهمة خاصة للغاية في أحراش فيتنام،
+twitter:url: https://ak.sv/movie/241/rambo-first-blood-part-ii
+description: بأوامر عليا من الحكومة وقيادات الجيش يتم إطلاق سلاح (جون رامبو) من السجن من أجل تنفيذ مهمة خاصة للغاية في أحراش فيتنام،
+keywords: Rambo: First Blood Part II,Rambo 2,Rambo Part 2,رامبو: أول دماء الجزء الثاني,First Blood Part II,رامبو 2
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-01-11T20:45:33+02:00
+article:modified_time: 2020-07-02T15:28:25+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

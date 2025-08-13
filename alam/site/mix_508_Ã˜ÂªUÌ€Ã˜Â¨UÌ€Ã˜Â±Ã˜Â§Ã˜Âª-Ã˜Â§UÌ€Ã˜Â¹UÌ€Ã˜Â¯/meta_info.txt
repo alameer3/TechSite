@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: تكبيرات العيد | اكوام
+twitter:title: تكبيرات العيد | اكوام
+robots: ALL
+og:type: article
+og:description: تحميل تكبيرات العيد mp3
+og:image: https://img.downet.net/thumb/830x506/uploads/lI7SE.jpg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/mix/508/%D8%AA%D9%83%D8%A8%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%8A%D8%AF
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/mix/508/%D8%AA%D9%83%D8%A8%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%8A%D8%AF
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/lI7SE.jpg
+twitter:description: تحميل تكبيرات العيد mp3
+twitter:url: https://ak.sv/mix/508/%D8%AA%D9%83%D8%A8%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%8A%D8%AF
+description: تحميل تكبيرات العيد mp3
+keywords: تحميل تكبيرات العيد,تكبيرات العيد
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2021-05-06T10:59:00+03:00
+article:modified_time: 2021-05-08T02:32:58+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

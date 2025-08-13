@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: الفيل الأزرق 2 | اكوام
+twitter:title: الفيل الأزرق 2 | اكوام
+robots: ALL
+og:type: article
+og:description: الجزء الثاني من فيلم الدراما و الغموض المصري،  الفيلم مأخوذ عن رواية الفيل الأزرق لأحمد مراد و بطول كريم عبدالعزيز
+og:image: https://img.downet.net/thumb/830x506/uploads/RQAe5.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/movie/228/%D8%A7%D9%84%D9%81%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-4
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/movie/228/%D8%A7%D9%84%D9%81%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-4
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/RQAe5.jpeg
+twitter:description: الجزء الثاني من فيلم الدراما و الغموض المصري،  الفيلم مأخوذ عن رواية الفيل الأزرق لأحمد مراد و بطول كريم عبدالعزيز
+twitter:url: https://ak.sv/movie/228/%D8%A7%D9%84%D9%81%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-4
+description: الجزء الثاني من فيلم الدراما و الغموض المصري،  الفيلم مأخوذ عن رواية الفيل الأزرق لأحمد مراد و بطول كريم عبدالعزيز
+keywords: الفيل الازرق,الفيل الازرق 2,الفيل الازرق الجزء الثاني,مشاهدة و تحميل فيلم الفيل الأزرق 2
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-01-09T21:03:19+02:00
+article:modified_time: 2021-02-21T21:36:46+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

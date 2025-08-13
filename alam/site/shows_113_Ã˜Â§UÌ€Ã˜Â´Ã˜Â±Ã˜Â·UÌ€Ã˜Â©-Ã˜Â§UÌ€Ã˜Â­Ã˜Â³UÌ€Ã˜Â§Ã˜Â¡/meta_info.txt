@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: الشرطية الحسناء | اكوام
+twitter:title: الشرطية الحسناء | اكوام
+robots: ALL
+og:type: article
+og:description: تتحدث عن دور المرأة في المجتمع وانها من الممكن ان تدخل المجالات الخطرة مثل مجال الشرطة
+og:image: https://img.downet.net/thumb/830x506/uploads/FG61a.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/113/%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A7%D8%A1
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/113/%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A7%D8%A1
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/FG61a.jpeg
+twitter:description: تتحدث عن دور المرأة في المجتمع وانها من الممكن ان تدخل المجالات الخطرة مثل مجال الشرطة
+twitter:url: https://ak.sv/shows/113/%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A7%D8%A1
+description: تتحدث عن دور المرأة في المجتمع وانها من الممكن ان تدخل المجالات الخطرة مثل مجال الشرطة
+keywords: الشرطية الحسناء,عمل النساء في الشرطة
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-03-08T16:30:43+02:00
+article:modified_time: 2020-03-08T16:38:16+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

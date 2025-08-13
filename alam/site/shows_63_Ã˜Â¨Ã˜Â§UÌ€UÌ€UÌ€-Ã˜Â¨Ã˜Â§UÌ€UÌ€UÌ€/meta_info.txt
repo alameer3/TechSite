@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: باللو باللو | اكوام
+twitter:title: باللو باللو | اكوام
+robots: ALL
+og:type: article
+og:description: مسرحية باللو باللو، مسرحية كوميدية استعراضية باللو باللو بطوله اشرف عبدالباقي وصلاح السعدني
+og:image: https://img.downet.net/thumb/830x506/uploads/yyrID.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/63/%D8%A8%D8%A7%D9%84%D9%84%D9%88-%D8%A8%D8%A7%D9%84%D9%84%D9%88
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/63/%D8%A8%D8%A7%D9%84%D9%84%D9%88-%D8%A8%D8%A7%D9%84%D9%84%D9%88
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/yyrID.jpeg
+twitter:description: مسرحية باللو باللو، مسرحية كوميدية استعراضية باللو باللو بطوله اشرف عبدالباقي وصلاح السعدني
+twitter:url: https://ak.sv/shows/63/%D8%A8%D8%A7%D9%84%D9%84%D9%88-%D8%A8%D8%A7%D9%84%D9%84%D9%88
+description: مسرحية باللو باللو، مسرحية كوميدية استعراضية باللو باللو بطوله اشرف عبدالباقي وصلاح السعدني
+keywords: باللو,باللو باللو,بالو,بالو بالو
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-02-04T12:33:35+02:00
+article:modified_time: 2020-02-04T19:22:54+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

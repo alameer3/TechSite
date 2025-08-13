@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: داخل قلعة بالمورال 1936-1955 | اكوام
+twitter:title: داخل قلعة بالمورال 1936-1955 | اكوام
+robots: ALL
+og:type: article
+og:description: تاريخ قلعة بالمورال، وكيف احتضنت حياة الملكة إليزابيث والعائلة الحاكمة
+og:image: https://img.downet.net/thumb/830x506/uploads/IGR18.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/79/%D8%AF%D8%A7%D8%AE%D9%84-%D9%82%D9%84%D8%B9%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84-1936-1955
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/79/%D8%AF%D8%A7%D8%AE%D9%84-%D9%82%D9%84%D8%B9%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84-1936-1955
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/IGR18.jpeg
+twitter:description: تاريخ قلعة بالمورال، وكيف احتضنت حياة الملكة إليزابيث والعائلة الحاكمة
+twitter:url: https://ak.sv/shows/79/%D8%AF%D8%A7%D8%AE%D9%84-%D9%82%D9%84%D8%B9%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84-1936-1955
+description: تاريخ قلعة بالمورال، وكيف احتضنت حياة الملكة إليزابيث والعائلة الحاكمة
+keywords: داخل قلعة بالمورال 1936-1955,قلعة بالمورال,العائلة الملكية,الملكة فيكتوريا
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-02-23T15:27:01+02:00
+article:modified_time: 2020-03-04T16:08:57+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: حسين فهمي | اكوام
+twitter:title: حسين فهمي | اكوام
+robots: ALL
+og:type: article
+og:description: 
+og:image: https://img.downet.net/thumb/830x506/uploads/krT4s.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/person/170/%D8%AD%D8%B3%D9%8A%D9%86-%D9%81%D9%87%D9%85%D9%8A
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/person/170/%D8%AD%D8%B3%D9%8A%D9%86-%D9%81%D9%87%D9%85%D9%8A
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/krT4s.jpeg
+twitter:description: 
+twitter:url: https://ak.sv/person/170/%D8%AD%D8%B3%D9%8A%D9%86-%D9%81%D9%87%D9%85%D9%8A
+description: 
+keywords: حسين,فهمي
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-01-15T19:19:30+02:00
+article:modified_time: 2020-01-15T19:32:53+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

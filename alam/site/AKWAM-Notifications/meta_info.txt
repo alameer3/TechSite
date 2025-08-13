@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: تطبيق إشعارات اكوام AKWAM Notifications | اكوام
+twitter:title: تطبيق إشعارات اكوام AKWAM Notifications | اكوام
+robots: ALL
+og:type: article
+og:description: 
+og:image: https://img.downet.net/thumb/830x506/uploads/AUHSH.png
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/AKWAM-Notifications
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/AKWAM-Notifications
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/AUHSH.png
+twitter:description: 
+twitter:url: https://ak.sv/AKWAM-Notifications
+description: 
+keywords: 
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2022-03-28T12:23:30+03:00
+article:modified_time: 2022-08-24T07:13:23+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

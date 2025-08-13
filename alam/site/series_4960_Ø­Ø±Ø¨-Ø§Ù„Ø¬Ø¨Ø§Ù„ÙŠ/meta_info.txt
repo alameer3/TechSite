@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: حرب الجبالي | اكوام
+twitter:title: حرب الجبالي | اكوام
+robots: ALL
+og:type: article
+og:description: مشاهدة و تحميل مسلسل حرب الجبالي حيث يدور العمل حول صراع دموي بين عائلتين في حي الجمالية، يشعل فتيلَه حب ممنوع وخيانات تقود لمعركة على السلطة.
+og:image: https://img.downet.net/thumb/830x506/uploads/KrvOM.jpg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/series/4960/%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84%D9%8A
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/series/4960/%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84%D9%8A
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/KrvOM.jpg
+twitter:description: مشاهدة و تحميل مسلسل حرب الجبالي حيث يدور العمل حول صراع دموي بين عائلتين في حي الجمالية، يشعل فتيلَه حب ممنوع وخيانات تقود لمعركة على السلطة.
+twitter:url: https://ak.sv/series/4960/%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84%D9%8A
+description: مشاهدة و تحميل مسلسل حرب الجبالي حيث يدور العمل حول صراع دموي بين عائلتين في حي الجمالية، يشعل فتيلَه حب ممنوع وخيانات تقود لمعركة على السلطة.
+keywords: حرب الجبالي,مشاهدة و تحميل مسلسل حرب الجبالي
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2025-05-20T15:55:17+03:00
+article:modified_time: 2025-07-31T00:42:29+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

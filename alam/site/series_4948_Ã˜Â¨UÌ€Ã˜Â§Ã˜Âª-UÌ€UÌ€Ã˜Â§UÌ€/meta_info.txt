@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: بنات همام | اكوام
+twitter:title: بنات همام | اكوام
+robots: ALL
+og:type: article
+og:description: مشاهدة و تحميل مسلسل بنات همام حيث تتناول الأحداث القصة العريقة لــ (ريا وسكينة) من منظور مختلف وفي حقبتين زمنيتين مختلفتين
+og:image: https://img.downet.net/thumb/830x506/uploads/Yo2yk.jpg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/series/4948/%D8%A8%D9%86%D8%A7%D8%AA-%D9%87%D9%85%D8%A7%D9%85
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/series/4948/%D8%A8%D9%86%D8%A7%D8%AA-%D9%87%D9%85%D8%A7%D9%85
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/Yo2yk.jpg
+twitter:description: مشاهدة و تحميل مسلسل بنات همام حيث تتناول الأحداث القصة العريقة لــ (ريا وسكينة) من منظور مختلف وفي حقبتين زمنيتين مختلفتين
+twitter:url: https://ak.sv/series/4948/%D8%A8%D9%86%D8%A7%D8%AA-%D9%87%D9%85%D8%A7%D9%85
+description: مشاهدة و تحميل مسلسل بنات همام حيث تتناول الأحداث القصة العريقة لــ (ريا وسكينة) من منظور مختلف وفي حقبتين زمنيتين مختلفتين
+keywords: بنات همام,مشاهدة و تحميل مسلسل بنات همام
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2025-02-28T01:28:27+02:00
+article:modified_time: 2025-03-31T06:09:58+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

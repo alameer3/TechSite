@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: 28 Years Later | اكوام
+twitter:title: 28 Years Later | اكوام
+robots: ALL
+og:type: article
+og:description: مشاهدة و تحميل فيلم 28 Years Later حيث يدور العمل حول بعد ثمانية وعشرين عامًا من هروب فيروس الغضب من مختبر للأسلحة البيولوجية، لا يزال البعض يخضع لحجر صحي قاسٍ،
+og:image: https://img.downet.net/thumb/830x506/uploads/Gn5bw.webp
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/movie/9995/28-years-later
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/movie/9995/28-years-later
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/Gn5bw.webp
+twitter:description: مشاهدة و تحميل فيلم 28 Years Later حيث يدور العمل حول بعد ثمانية وعشرين عامًا من هروب فيروس الغضب من مختبر للأسلحة البيولوجية، لا يزال البعض يخضع لحجر صحي قاسٍ،
+twitter:url: https://ak.sv/movie/9995/28-years-later
+description: مشاهدة و تحميل فيلم 28 Years Later حيث يدور العمل حول بعد ثمانية وعشرين عامًا من هروب فيروس الغضب من مختبر للأسلحة البيولوجية، لا يزال البعض يخضع لحجر صحي قاسٍ،
+keywords: 28 Years Later,مشاهدة و تحميل فيلم 28 Years Later,بعد 28 عاما
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2025-07-29T19:57:37+03:00
+article:modified_time: 2025-07-29T19:57:37+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

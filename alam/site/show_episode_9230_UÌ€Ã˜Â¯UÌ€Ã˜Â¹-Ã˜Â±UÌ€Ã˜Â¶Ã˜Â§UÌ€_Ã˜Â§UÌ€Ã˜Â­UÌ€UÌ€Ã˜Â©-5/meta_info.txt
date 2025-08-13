@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: مدفع رمضان - 5  | اكوام
+twitter:title: مدفع رمضان - 5  | اكوام
+robots: ALL
+og:type: article
+og:description: مشاهدة و تحميل برنامج مدفع رمضان
+og:image: https://img.downet.net/thumb/830x506/uploads/ZiG8Y.png
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/show/episode/9230/%D9%85%D8%AF%D9%81%D8%B9-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-5
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/show/episode/9230/%D9%85%D8%AF%D9%81%D8%B9-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-5
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/ZiG8Y.png
+twitter:description: مشاهدة و تحميل برنامج مدفع رمضان
+twitter:url: https://ak.sv/show/episode/9230/%D9%85%D8%AF%D9%81%D8%B9-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-5
+description: مشاهدة و تحميل برنامج مدفع رمضان
+keywords: مدفع رمضان,مشاهدة و تحميل برنامج مدفع رمضان
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2025-03-01T19:50:28+02:00
+article:modified_time: 2025-03-28T18:43:18+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

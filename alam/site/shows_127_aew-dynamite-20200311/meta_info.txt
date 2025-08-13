@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: AEW Dynamite 2020.03.11 | اكوام
+twitter:title: AEW Dynamite 2020.03.11 | اكوام
+robots: ALL
+og:type: article
+og:description: العرض الاسبوعي ايه اي دبليو ديناميت بتاريخ 2020.03.11
+og:image: https://img.downet.net/thumb/830x506/uploads/HgAEA.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/127/aew-dynamite-20200311
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/127/aew-dynamite-20200311
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/HgAEA.jpeg
+twitter:description: العرض الاسبوعي ايه اي دبليو ديناميت بتاريخ 2020.03.11
+twitter:url: https://ak.sv/shows/127/aew-dynamite-20200311
+description: العرض الاسبوعي ايه اي دبليو ديناميت بتاريخ 2020.03.11
+keywords: AEW Dynamite 2020
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-03-12T15:26:58+02:00
+article:modified_time: 2020-03-14T19:03:06+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: WWE Shawn Michaels The Showstopper Unreleased | اكوام
+twitter:title: WWE Shawn Michaels The Showstopper Unreleased | اكوام
+robots: ALL
+og:type: article
+og:description: في ثلاث اسطوانات شاهد افضل اللقطات والمباريات لنجم اتحاد الدابليو اي شون مايكلز منذ انضمامه لاتحاد المصارعة
+og:image: https://img.downet.net/thumb/830x506/uploads/CiOUv.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/35/wwe-shawn-michaels-the-showstopper-unreleased
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/35/wwe-shawn-michaels-the-showstopper-unreleased
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/CiOUv.jpeg
+twitter:description: في ثلاث اسطوانات شاهد افضل اللقطات والمباريات لنجم اتحاد الدابليو اي شون مايكلز منذ انضمامه لاتحاد المصارعة
+twitter:url: https://ak.sv/shows/35/wwe-shawn-michaels-the-showstopper-unreleased
+description: في ثلاث اسطوانات شاهد افضل اللقطات والمباريات لنجم اتحاد الدابليو اي شون مايكلز منذ انضمامه لاتحاد المصارعة
+keywords: WWE,Shawn Michaels,شون مايكلز
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-01-22T09:05:22+02:00
+article:modified_time: 2020-01-22T09:14:08+02:00
+msapplication-TileColor: #222222
+theme-color: #222222

@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: قطط الهند البرية | اكوام
+twitter:title: قطط الهند البرية | اكوام
+robots: ALL
+og:type: article
+og:description: تعتبر القطط البرية الهندية رمزا للقوة ولكنها الان معرضة للانقراض
+og:image: https://img.downet.net/thumb/830x506/uploads/xTl9q.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/71/%D9%82%D8%B7%D8%B7-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%A9-2
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/71/%D9%82%D8%B7%D8%B7-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%A9-2
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/xTl9q.jpeg
+twitter:description: تعتبر القطط البرية الهندية رمزا للقوة ولكنها الان معرضة للانقراض
+twitter:url: https://ak.sv/shows/71/%D9%82%D8%B7%D8%B7-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%A9-2
+description: تعتبر القطط البرية الهندية رمزا للقوة ولكنها الان معرضة للانقراض
+keywords: INDIA'S WILD CATS,قطط الهند البرية
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-02-14T14:40:15+02:00
+article:modified_time: 2022-05-18T11:19:16+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

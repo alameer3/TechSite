@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: المسلسل الاذاعي الوكالة | اكوام
+twitter:title: المسلسل الاذاعي الوكالة | اكوام
+robots: ALL
+og:type: article
+og:description: تحميل المسلسل الاذاعي الوكالة رمضان 2022 بصيغة MP3
+og:image: https://img.downet.net/thumb/830x506/uploads/P12A9.jpg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/mix/782/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/mix/782/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/P12A9.jpg
+twitter:description: تحميل المسلسل الاذاعي الوكالة رمضان 2022 بصيغة MP3
+twitter:url: https://ak.sv/mix/782/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9
+description: تحميل المسلسل الاذاعي الوكالة رمضان 2022 بصيغة MP3
+keywords: المسلسل الاذاعي الوكالة
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2022-06-10T15:51:00+03:00
+article:modified_time: 2022-06-10T15:51:00+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

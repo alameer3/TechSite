@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: The Life of Chuck | اكوام
+twitter:title: The Life of Chuck | اكوام
+robots: ALL
+og:type: article
+og:description: مشاهدة و تحميل فيلم The Life of Chuck حيث يدور العمل حول في هذه القصة غير العادية التي تحكي قصة رجل عادي، يختبر تشارلز "تشاك" كرانتز روعة الحب، وألم الخسارة،
+og:image: https://img.downet.net/thumb/830x506/uploads/BV1RS.webp
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/movie/9994/the-life-of-chuck
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/movie/9994/the-life-of-chuck
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/BV1RS.webp
+twitter:description: مشاهدة و تحميل فيلم The Life of Chuck حيث يدور العمل حول في هذه القصة غير العادية التي تحكي قصة رجل عادي، يختبر تشارلز "تشاك" كرانتز روعة الحب، وألم الخسارة،
+twitter:url: https://ak.sv/movie/9994/the-life-of-chuck
+description: مشاهدة و تحميل فيلم The Life of Chuck حيث يدور العمل حول في هذه القصة غير العادية التي تحكي قصة رجل عادي، يختبر تشارلز "تشاك" كرانتز روعة الحب، وألم الخسارة،
+keywords: The Life of Chuck,مشاهدة و تحميل فيلم The Life of Chuck,حياة تشاك
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2025-07-29T19:45:37+03:00
+article:modified_time: 2025-07-29T19:45:37+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

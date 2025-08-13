@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: الليلة دوب - 1 الحلقة الاولى | اكوام
+twitter:title: الليلة دوب - 1 الحلقة الاولى | اكوام
+robots: ALL
+og:type: article
+og:description: مشاهدة و تحميل برنامج الليلة دوب حيث يستقبل (حسن الرداد) في كل حلقة مجموعة من نجوم الوطن العربي للتنافس فيما بينهم في العديد من التحديات الموسيقية والفنية في إطار من المرح والمنافسة.
+og:image: https://img.downet.net/thumb/830x506/uploads/Jnw07.jpg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/show/episode/9209/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9-%D8%AF%D9%88%D8%A8/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/show/episode/9209/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9-%D8%AF%D9%88%D8%A8/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/Jnw07.jpg
+twitter:description: مشاهدة و تحميل برنامج الليلة دوب حيث يستقبل (حسن الرداد) في كل حلقة مجموعة من نجوم الوطن العربي للتنافس فيما بينهم في العديد من التحديات الموسيقية والفنية في إطار من المرح والمنافسة.
+twitter:url: https://ak.sv/show/episode/9209/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9-%D8%AF%D9%88%D8%A8/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1
+description: مشاهدة و تحميل برنامج الليلة دوب حيث يستقبل (حسن الرداد) في كل حلقة مجموعة من نجوم الوطن العربي للتنافس فيما بينهم في العديد من التحديات الموسيقية والفنية في إطار من المرح والمنافسة.
+keywords: الليلة دوب,مشاهدة و تحميل برنامج الليلة دوب
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2024-04-25T02:03:18+03:00
+article:modified_time: 2024-05-09T02:48:43+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

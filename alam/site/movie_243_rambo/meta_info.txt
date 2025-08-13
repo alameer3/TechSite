@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: Rambo | اكوام
+twitter:title: Rambo | اكوام
+robots: ALL
+og:type: article
+og:description: فريق مغامر يقع في مشكلة فيطلب من رامبو المساعدة
+og:image: https://img.downet.net/thumb/830x506/uploads/4scGp.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/movie/243/rambo
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/movie/243/rambo
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/4scGp.jpeg
+twitter:description: فريق مغامر يقع في مشكلة فيطلب من رامبو المساعدة
+twitter:url: https://ak.sv/movie/243/rambo
+description: فريق مغامر يقع في مشكلة فيطلب من رامبو المساعدة
+keywords: Rambo,رامبو,رامبو 4,Rambo 4,Rambo IV
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-01-11T21:27:31+02:00
+article:modified_time: 2020-07-02T15:28:25+03:00
+msapplication-TileColor: #222222
+theme-color: #222222

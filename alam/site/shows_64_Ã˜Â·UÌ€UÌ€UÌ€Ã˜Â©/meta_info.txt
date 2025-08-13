@@ -1,0 +1,28 @@
+viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+og:title: طميمة | اكوام
+twitter:title: طميمة | اكوام
+robots: ALL
+og:type: article
+og:description: مسرحية تتناول الاختباء من الحروب والنزاعات كالاختباء الحاصل في لعبة الاطفال طميمة
+og:image: https://img.downet.net/thumb/830x506/uploads/VSD1S.jpeg
+og:image:width: 573
+og:image:height: 300
+og:url: https://ak.sv/shows/64/%D8%B7%D9%85%D9%8A%D9%85%D8%A9
+og:site_name: اكوام
+twitter:card: summary_large_image
+twitter:domain: https://ak.sv/shows/64/%D8%B7%D9%85%D9%8A%D9%85%D8%A9
+twitter:site: @AKOAMsocial
+twitter:creator: @AKOAMsocial
+twitter:image: https://img.downet.net/thumb/830x506/uploads/VSD1S.jpeg
+twitter:description: مسرحية تتناول الاختباء من الحروب والنزاعات كالاختباء الحاصل في لعبة الاطفال طميمة
+twitter:url: https://ak.sv/shows/64/%D8%B7%D9%85%D9%8A%D9%85%D8%A9
+description: مسرحية تتناول الاختباء من الحروب والنزاعات كالاختباء الحاصل في لعبة الاطفال طميمة
+keywords: طميمة,لعبة طميمة,لعبة الاختفاء
+author: AKWAM
+rating: General
+fb:app_id: 437560843555258
+copyright: جميع الحقوق محفوظة لـ شبكة اكوام © 2025
+article:published_time: 2020-02-06T15:51:10+02:00
+article:modified_time: 2020-02-06T22:47:28+02:00
+msapplication-TileColor: #222222
+theme-color: #222222
